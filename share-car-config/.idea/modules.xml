@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/share-car-config.iml" filepath="$PROJECT_DIR$/share-car-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share-car-config.iml" filepath="$PROJECT_DIR$/share-car-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share-car-config-biz/share-car-config-biz.iml" filepath="$PROJECT_DIR$/share-car-config-biz/share-car-config-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share-car-config-common/share-car-config-common.iml" filepath="$PROJECT_DIR$/share-car-config-common/share-car-config-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share-car-config-sao/share-car-config-sao.iml" filepath="$PROJECT_DIR$/share-car-config-sao/share-car-config-sao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share-car-config-service/share-car-config-service.iml" filepath="$PROJECT_DIR$/share-car-config-service/share-car-config-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="share-car-config-biz" />
+        <module name="share-car-config-common" />
+        <module name="share-car-config-sao" />
+        <module name="share-car-config-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="share-car-config" target="1.8" />
+      <module name="share-car-config-biz" target="1.8" />
+      <module name="share-car-config-common" target="1.8" />
+      <module name="share-car-config-sao" target="1.8" />
+      <module name="share-car-config-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
